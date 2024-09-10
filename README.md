@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【ML Method】COCO format explained](https://zenn.dev/yuto_mo/articles/05e27632de06bb)
 - [【Data Method】Normalization VS Standardization](https://zenn.dev/yuto_mo/articles/addc2c603c857b)
 - [【Kaggle】ISIC2024 240位🥉 振り返り](https://zenn.dev/yuto_mo/articles/9366013cba8d11)
 - [【Kaggle】ISIC2024 240th Solution](https://zenn.dev/yuto_mo/articles/e37484a18d4565)
-- [【ML Method】How to use the MMDetection](https://zenn.dev/yuto_mo/articles/8fbefd9efdc6c7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

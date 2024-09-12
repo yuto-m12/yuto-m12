@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【GitHub】error: pack-objects died of signal 9](https://zenn.dev/yuto_mo/articles/8d751bf4bece1c)
 - [【GitHub】Update this repo&#39;s README with latest blog posts with yml file](https://zenn.dev/yuto_mo/articles/bb20804a3a8bd1)
 - [【ML Method】COCO format explained](https://zenn.dev/yuto_mo/articles/05e27632de06bb)
 - [【Data Method】Normalization VS Standardization](https://zenn.dev/yuto_mo/articles/addc2c603c857b)
-- [【Kaggle】ISIC2024 240位🥉 振り返り](https://zenn.dev/yuto_mo/articles/9366013cba8d11)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

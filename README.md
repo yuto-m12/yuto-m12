@@ -18,14 +18,76 @@
     <img src="https://zenn.badge.nikaera.com/s/yuto_mo/followers?style=plastic" alt="yuto_mo followers" />
   </a>
 
+## Summary
+初めまして。 Yuto です。  
+現在はメーカーの開発部門で、Pythonを用いたロボットの振動最適化やPLCラダーによる組み込み開発を行っています。
 
-### Blogs posts
+最近の関心事は機械学習全般、特に画像認識や時系列分析の分野で、趣味でKaggleにも参加しています。
+<br>
+<br>
+
+
+## Public Projects
+<!-- >2024/09/07 - 2024/06/27 -->
+- Kaggle 皮膚がんコンペ 銅メダル🥉 236位(top8.6%)
+>2024/09/07  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+>2024/06/27
+
+- Kaggle 鳥の鳴き声コンペ 銀メダル🥈 29位(top3%) 
+>2024/06/11  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+>2024/04/04
+
+- スケジュール管理WebApp(closed)
+>2023/5/23  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+>2022/11/10
+
+
+## Blogs
+2023/06/20から[技術記事](https://zenn.dev/yuto_mo)を投稿しており、現在は200記事以上を公開しています。(2024/03/06より毎日投稿)  
+最近は勉強も兼ねて英語で投稿することが多いです。
+
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;Now  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+>2023/06/20
+
+##### Pick Up
+
+- [2024年夏 関西Kaggler会 振り返り](https://zenn.dev/yuto_mo/articles/9366013cba8d11)
+- [【ML Basic Method】VIT解説 まとめ](https://zenn.dev/yuto_mo/articles/d42cce7a8441fa)
+- [【Kaggle】ISIC2024 240位🥉 振り返り](https://zenn.dev/yuto_mo/articles/9366013cba8d11)
+
+
+##### 最新記事
 <!-- BLOG-POST-LIST:START -->
-- [【GitHub】error: pack-objects died of signal 9](https://zenn.dev/yuto_mo/articles/8d751bf4bece1c)
-- [【GitHub】Update this repo&#39;s README with latest blog posts with yml file](https://zenn.dev/yuto_mo/articles/bb20804a3a8bd1)
 - [【ML Method】COCO format explained](https://zenn.dev/yuto_mo/articles/05e27632de06bb)
 - [【Data Method】Normalization VS Standardization](https://zenn.dev/yuto_mo/articles/addc2c603c857b)
+- [【Kaggle】ISIC2024 240位🥉 振り返り](https://zenn.dev/yuto_mo/articles/9366013cba8d11)
+- [【Kaggle】ISIC2024 240th Solution](https://zenn.dev/yuto_mo/articles/e37484a18d4565)
 <!-- BLOG-POST-LIST:END -->
+
+
+## Career
+
+<div style="border-left: 4px solid gray; padding-left: 10px;">
+
+>Now - 2023/04
+- セイコーエプソン株式会社   
+Pythonを用いたロボットの振動最適化やPLCラダーによる組み込み開発を行っています。<br>
+
+</div>
+
+<div style="border-left: 4px solid gray; padding-left: 10px;">
+
+>2023/03 - 2021/04
+- 岐阜大学  
+石川高専から編入。電気電子情報工学の基礎を学び、研究ではPythonを使用して雷発生時に風車に生じる電流の解析を行いました。
+
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -64,7 +64,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [【GitHub】error: pack-objects died of signal 9](https://zenn.dev/yuto_mo/articles/8d751bf4bece1c)
 - [【GitHub】Update this repo&#39;s README with latest blog posts with yml file](https://zenn.dev/yuto_mo/articles/bb20804a3a8bd1)
-- [【ML Method】COCO format explained](https://zenn.dev/yuto_mo/articles/05e27632de06bb)
+- [【Method for ML】COCO format explained](https://zenn.dev/yuto_mo/articles/05e27632de06bb)
 - [【Data Method】Normalization VS Standardization](https://zenn.dev/yuto_mo/articles/addc2c603c857b)
 <!-- BLOG-POST-LIST:END -->
 

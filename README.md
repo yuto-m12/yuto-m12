@@ -115,10 +115,10 @@
 
 ##### 最新記事
 <!-- BLOG-POST-LIST:START -->
+- [【Data Method】HSV color space explained](https://zenn.dev/yuto_mo/articles/2f4e8168cc817f)
 - [【Statistics Method】t-test explained](https://zenn.dev/yuto_mo/articles/4884edb9de589b)
 - [【GitHub】error: pack-objects died of signal 9](https://zenn.dev/yuto_mo/articles/8d751bf4bece1c)
 - [【GitHub】Update this repo&#39;s README with latest blog posts with yml file](https://zenn.dev/yuto_mo/articles/bb20804a3a8bd1)
-- [【Method for ML】COCO format explained](https://zenn.dev/yuto_mo/articles/05e27632de06bb)
 <!-- BLOG-POST-LIST:END -->
 
 

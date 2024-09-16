@@ -58,10 +58,10 @@
 
 ##### 最新記事
 <!-- BLOG-POST-LIST:START -->
+- [【Method for ML】Machine Learning Pipeline](https://zenn.dev/yuto_mo/articles/e07e110c898bb4)
 - [【Web】How to preview a HTML file without building a server](https://zenn.dev/yuto_mo/articles/8155ae05d9be02)
 - [【Data Method】HSV color space explained](https://zenn.dev/yuto_mo/articles/2f4e8168cc817f)
 - [【Statistics Method】t-test explained](https://zenn.dev/yuto_mo/articles/4884edb9de589b)
-- [【GitHub】error: pack-objects died of signal 9](https://zenn.dev/yuto_mo/articles/8d751bf4bece1c)
 <!-- BLOG-POST-LIST:END -->
 
 

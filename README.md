@@ -58,10 +58,10 @@
 
 ##### 最新記事
 <!-- BLOG-POST-LIST:START -->
+- [【Kaggle Method】ISIC2024 4th solution explained](https://zenn.dev/yuto_mo/articles/8627736450dab7)
 - [【Kaggle Method】ISIC2024  2nd solution explained](https://zenn.dev/yuto_mo/articles/9585f0bf4d458b)
 - [【Kaggle Method】ISIC2024 3rd Solution explained](https://zenn.dev/yuto_mo/articles/d3411b501679d4)
 - [【Method for ML】Machine Learning Pipeline](https://zenn.dev/yuto_mo/articles/e07e110c898bb4)
-- [【Web】How to preview a HTML file without building a server](https://zenn.dev/yuto_mo/articles/8155ae05d9be02)
 <!-- BLOG-POST-LIST:END -->
 
 

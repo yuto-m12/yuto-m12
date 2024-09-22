@@ -58,10 +58,10 @@
 
 ##### 最新記事
 <!-- BLOG-POST-LIST:START -->
+- [【ML Method】k-means and k-NN](https://zenn.dev/yuto_mo/articles/425cfa611977da)
 - [【LLM Method】TF-IDF explained](https://zenn.dev/yuto_mo/articles/d394e949f4f179)
 - [【Kaggle Method】ISIC2024 7th solution explained](https://zenn.dev/yuto_mo/articles/db30c57ece13b6)
 - [【Kaggle Method】ISIC2024 4th solution explained](https://zenn.dev/yuto_mo/articles/8627736450dab7)
-- [【Kaggle Method】ISIC2024  2nd solution explained](https://zenn.dev/yuto_mo/articles/9585f0bf4d458b)
 <!-- BLOG-POST-LIST:END -->
 
 

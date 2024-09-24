@@ -58,10 +58,10 @@
 
 ##### 最新記事
 <!-- BLOG-POST-LIST:START -->
+- [【Optimization Method】Optuna Tutorial part1](https://zenn.dev/yuto_mo/articles/c7bf34a35b7566)
 - [【ML】Understanding Batch Gradient Descent](https://zenn.dev/yuto_mo/articles/1a9f1e381731ae)
 - [【ML Method】k-means and k-NN](https://zenn.dev/yuto_mo/articles/425cfa611977da)
 - [【LLM Method】TF-IDF explained](https://zenn.dev/yuto_mo/articles/d394e949f4f179)
-- [【Kaggle Method】ISIC2024 7th solution explained](https://zenn.dev/yuto_mo/articles/db30c57ece13b6)
 <!-- BLOG-POST-LIST:END -->
 
 
